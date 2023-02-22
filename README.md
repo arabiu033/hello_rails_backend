@@ -88,7 +88,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-`git clone git@github.com:Strangeal/hello-rails-react.git`
+`git clone https://github.com/arabiu033/hello_react_frontend`
 
 then
 
