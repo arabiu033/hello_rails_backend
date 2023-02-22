@@ -65,7 +65,7 @@
 
 > Add a link to your deployed project.
 
-- [Comming Soon 🎈]()
+- [Link to the frontend app](https://github.com/arabiu033/hello_react_frontend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,7 +88,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-`git clone https://github.com/arabiu033/hello_react_frontend`
+`git clone https://github.com/arabiu033/hello_react_backend`
 
 then
 
